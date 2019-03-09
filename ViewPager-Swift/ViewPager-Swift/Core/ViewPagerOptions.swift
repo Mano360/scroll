@@ -2,8 +2,8 @@
 //  ViewPagerOptions.swift
 //  ViewPager-Swift
 //
-//  Created by Nishan on 2/9/16.
-//  Copyright © 2016 Nishan. All rights reserved.
+//  Created by Manohar on 2/03/19.
+//  Copyright © 2019 Omnicuris. All rights reserved.
 //
 
 import UIKit
