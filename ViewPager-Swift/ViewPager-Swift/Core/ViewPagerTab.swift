@@ -2,8 +2,8 @@
 //  ViewPagerTab.swift
 //  ViewPager-Swift
 //
-//  Created by Nishan on 1/9/17.
-//  Copyright © 2017 Nishan. All rights reserved.
+//  Created by Manohar on 2/03/19.
+//  Copyright © 2019 Omnicuris. All rights reserved.
 //
 
 import Foundation
